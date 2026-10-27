@@ -85,7 +85,7 @@ export function Home() {
         <div className="container hero__grid">
           <div className="hero__content">
             <div className="hero__kicker">
-              <span className="eyebrow">Mulund West, Mumbai</span>
+              <span className="eyebrow">Custom Jewellery · Mulund West, Mumbai</span>
             </div>
 
             <h1 className="hero__title">
@@ -93,7 +93,7 @@ export function Home() {
             </h1>
 
             <p className="hero__lead">
-              Everyday luxury crafted to keep its shine, year after year.
+              Custom art jewellery designed around your style, with a lasting anti-tarnish shine.
             </p>
 
             <div className="hero__actions">
